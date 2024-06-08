@@ -1,0 +1,44 @@
+.center{
+  width: 500px;
+  margin: auto;
+  color: white;
+}
+
+.main{
+  background: purple;
+}
+
+.titl{
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 60px;
+
+}
+
+.message{
+  font-size: 40px;
+  margin-left: 30px;
+  color: white;
+}
+
+.qot{
+  font-style: italic;
+  font-family: cursive;
+  color: white;
+  font-size: 40px;
+}
+
+.outro{
+  color: white;
+  font-size: 60px;
+  width: 500px;
+  margin: auto;
+}
+
+.show{
+  align-content: center;
+  width: 700px;
+  height: 500px;
+  margin-bottom: 0%;
+}
